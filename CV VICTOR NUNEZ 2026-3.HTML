@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Víctor Núñez | Consultor en Calidad y Operaciones</title>
+
+<style>
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    background: #ffffff;
+    color: #1a1a1a;
+}
+
+header {
+    background: #0a2540;
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    margin-top: 10px;
+    font-size: 1.2em;
+    opacity: 0.9;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #e6e6e6;
+    padding-bottom: 5px;
+    color: #0a2540;
+}
+
+.section {
+    margin-bottom: 40px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+.highlight {
+    font-weight: bold;
+    color: #0a2540;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background: #f4f6f9;
+    font-size: 0.9em;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+    <h1>Víctor Núñez</h1>
+    <p>Líder de Calidad | Seguridad | Mejora Continua</p>
+    <p>📍 CDMX y Área metropolitana | 📞 5517198698 | ✉️ victornunnz@gmail.com</p>
+</header>
+
+<div class="container">
+
+<div class="section">
+<h2>Propuesta de Valor</h2>
+<p>
+Profesional con +8 años de experiencia transformando operaciones mediante 
+<span class="highlight">sistemas de gestión, mejora continua y liderazgo técnico</span>.
+Especialista en integrar calidad, seguridad y eficiencia operativa en entornos industriales y de laboratorio.
+</p>
+<p>
+Experiencia directa con alta dirección, auditorías internacionales y desarrollo de equipos de alto desempeño.
+</p>
+</div>
+
+<div class="section">
+<h2>Impacto y Resultados</h2>
+<ul>
+<li>Implementación y mantenimiento de sistemas ISO (9001, 14001, 45001, 17025)</li>
+<li>Liderazgo de proyectos de mejora bajo metodologías PDCA y LEAN </li>
+<li>Más de 90 horas de capacitación impartida a personal operativo y técnico</li>
+<li>Signatario técnico acreditado ante EMA</li>
+<li>Participación en comité técnico de NORMEX</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Experiencia Profesional</h2>
+
+<div class="card">
+<h3>Coordinador de Procesos y Control de Calidad</h3>
+<p><strong>RHI Magnesita | 2025 – 2026</strong></p>
+<ul>
+<li>Gestión integral de proyectos de planta y laboratorio (Lean & R&D)</li>
+<li>Liderazgo de equipo técnico (ingenieros y sindicalizados)</li>
+<li>Implementación de control de procesos y herramientas LEAN</li>
+<li>Gestión de indicadores y toma de decisiones basada en datos</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Consultor</h3>
+<p><strong>SIGSA Consultores | 2024</strong></p>
+<ul>
+<li>Implementación de sistemas ISO en organizaciones nacionales y multinacionales</li>
+<li>Ejecución de auditorías internas y externas</li>
+<li>Capacitación en seguridad, riesgos y cumplimiento normativo</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Responsable del Sistema de Gestión</h3>
+<p><strong>Extracta Laboratorio | 2021 – 2024</strong></p>
+<ul>
+<li>Administración y mantenimiento de la acreditación ISO 17025, 9001 y 45001</li>
+<li>Líder de validación y verificación de métodos analíticos (HPLC, CG, AA)</li>
+<li>Ahorro de recursos mediante mejora continua en laboratorio y administración</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Analista Químico</h3>
+<p><strong>Intertek | 2018 – 2020</strong></p>
+<ul>
+<li>Análisis fisicoquímicos conforme a normas NOM y EPA</li>
+<li>Uso de ICP-OES para evaluación de aguas y alimentos</li>
+</ul>
+</div>
+
+</div>
+
+<div class="section">
+<h2>Liderazgo</h2>
+<ul>
+<li>Liderazgo de equipos multidisciplinarios</li>
+<li>Formación y capacitación de talento técnico</li>
+<li>Coordinación de programas de seguridad e higiene</li>
+<li>Gestión del cambio organizacional</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Expertise Técnico</h2>
+<ul>
+<li>Sistemas de gestión: ISO 9001, 14001, 45001, 17025</li>
+<li>Herramientas Lean: AMEF, 8D, APQP, PDCA</li>
+<li>Gestión de riesgos y cumplimiento normativo</li>
+<li>SAP y análisis de datos</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Formación</h2>
+<ul>
+<li>Químico – UNAM</li>
+<li>Lean Six Sigma Yellow Belt</li>
+<li>Diplomado en Seguridad e Higiene</li>
+</ul>
+</div>
+
+</div>
+
+<div class="footer">
+© 2026 Víctor Núñez | Perfil Profesional
+</div>
+
+</body>
+</html>
